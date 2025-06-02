@@ -1,0 +1,5 @@
+{
+    "words_file": "words.txt",
+    "num_tries": 5,
+    "endless": false
+}
